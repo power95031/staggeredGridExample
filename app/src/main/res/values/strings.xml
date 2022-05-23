@@ -1,7 +1,4 @@
 <resources>
     <string name="app_name">비디오칵테일</string>
 
-    <string name="apiUrl">https://api.dal-da.co.kr/crew/</string>
-    <string name="apiAutoKey">Authorization</string>
-    <string name="apiAutoValue">Basic ZGFsZGE6ZGFsZGExMjM=</string>
 </resources>
